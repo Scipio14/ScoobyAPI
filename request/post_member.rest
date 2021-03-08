@@ -1,0 +1,13 @@
+POST http://localhost:3002/api/scoobygang/
+Content-Type: application/json
+
+{
+  "name":"Velma Dinkley",
+  "imgURL":"https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Velma_Dinkley.png/150px-Velma_Dinkley.png",
+  "description":"The nerd of the gang"
+}
+
+###
+
+POST http://localhost:3002/api/scoobygang/
+Content-Type: application/json
