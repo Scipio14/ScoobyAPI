@@ -1,1 +1,1 @@
- DELETE http://localhost:3002/api/scoobygang/4
+ DELETE http://localhost:3002/api/scoobygang/6047e2557cdc8f1624d696e7

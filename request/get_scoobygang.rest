@@ -1,2 +1,4 @@
 GET http://localhost:3002/api/scoobygang/
 
+###
+GET http://localhost:3002/api/scoobygang/5
